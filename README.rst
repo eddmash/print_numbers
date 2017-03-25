@@ -16,3 +16,9 @@ To print numbers:
     >>> from print_numbers.main import do_print
     >>> do_print(1, 100)
     
+Running Tests
+-------------
+
+To run tests for the project run the following command while inside the root directory print_numbers
+
+    py.test tests.py
