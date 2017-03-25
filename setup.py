@@ -1,6 +1,6 @@
 from setuptools import setup
 
-from ukpostcodevalidator import VERSION
+from print_numbers import VERSION
 
 setup(name='print_numbers',
       version=VERSION,
